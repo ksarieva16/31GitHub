@@ -1,0 +1,18 @@
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Игнорировать скомпилированные файлы Java
+*.class
+
+# Игнорировать каталоги, содержащие скомпилированный код
+/target/
+
+# Игнорировать файлы IDE
+.idea/
+*.iml
+
+# Игнорировать файлы конфигурации Maven
+mvnw
+mvnw.cmd
+.mvn/
